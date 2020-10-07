@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ProyekDua</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="todo">TODO</string>
+    <string name="alamat_tinggal">Alamat Tinggal</string>
+    <string name="asal_sekolah">Asal Sekolah</string>
+    <string name="vsga">VSGA</string>
+    <string name="digital_talent_scholarship">Digital Talent Scholarship</string>
+</resources>
